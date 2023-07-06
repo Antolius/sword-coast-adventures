@@ -1,5 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
+baseURL = "https://antolius.github.io/sword-coast-adventures/"
+languageCode = "hr"
+defaultContentLanguage = "hr"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
